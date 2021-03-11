@@ -1,2 +1,2 @@
 # sorteador-numeros
- Sorteador de numeros do curso Kenzie Academy
+ Sorteador de Numeros nao funcional (por enquanto), sempre vou atualiza-lo para algum dia deixar funcional!
