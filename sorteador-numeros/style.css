@@ -16,12 +16,17 @@ header{
 
 
 header{
-    color: rgb(0, 0, 0);
+    color: rgb(234, 255, 255);
     background: linear-gradient(rgb(125, 125, 247), blue);
     margin-bottom: 75px;
     text-align: center;
     height: 100px;
     background-color: rgb(232, 232, 255);
+}
+
+.githubbtn a{
+    color: aqua;
+    text-decoration: none;
 }
 
 section{
