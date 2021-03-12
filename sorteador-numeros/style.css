@@ -14,18 +14,10 @@ header{
     border-bottom: red solid 1px;
 }
 
-.githubbtn a{
-    color: white;
-    text-decoration: none;
-} 
-
-.githubbtn a:hover{
-    color: black;
-}
 
 header{
-    color: white;
-    background: linear-gradient(rgb(209, 209, 247), blue);
+    color: rgb(0, 0, 0);
+    background: linear-gradient(rgb(125, 125, 247), blue);
     margin-bottom: 75px;
     text-align: center;
     height: 100px;
