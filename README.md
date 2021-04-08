@@ -17,3 +17,8 @@ Este foi um _**projeto/tentativa**_ feito sozinho, por enquanto não está funci
 ### **O que falta?**
 
 Falta apenas o JavaScript e deixar o codigo mais limpo.
+
+### **Resultado**
+
+![Resultado do projeto](https://user-images.githubusercontent.com/80369075/114094811-213a1080-9893-11eb-947d-256101179313.png)
+)
